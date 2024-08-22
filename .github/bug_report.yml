@@ -1,0 +1,28 @@
+Issue
+
+Brief description of the issue, as complete as possible, with the maximum amount of detail expressed in the fewest amount of words
+Bullet points used for clarity
+Link to project where the error occurred (if applicable)
+ 
+
+Expected Behaviour
+
+AK & RH opinion on what we (and by extension our users) would generally expect to happen when carrying out the activity
+Indication (where relevant/appropriate) of how this may impact the user, to assist with bug prioritisation
+ 
+
+Reproducible
+
+Yes / No / Maybe
+If ‘Maybe’, indication of where this has occurred in the past and how it’s inconsistent, to assist with error reproduction
+ 
+
+Reproduction steps
+
+Numbered list of the steps taken to reproduce the bug
+ 
+
+Screenshot
+
+Screenshot of the issue as it has occurred, with explanation text
+ 
